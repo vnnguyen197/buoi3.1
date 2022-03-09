@@ -1,5 +1,5 @@
 const endpoint = 'https://www.gov.uk/bank-holidays.json';
-const ul = document.getElementById('holidays')
+const ul = document.getElementById('holidays');
 
 let bankHolidays;
 let england;
